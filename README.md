@@ -4,7 +4,7 @@ Build an interactive dashboard to analyze two years of the online sales data of 
 ## **Project Objective**
 
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights.
-I would like to thank <a href="https://www.youtube.com/watch?v=fZn83JRt4Nk"> YouTuber Rishabh Mishra </a> for this type of amazing content and guidance.
+
 
 ## **Description**
 The objective can be broken down into the following detailed component.
